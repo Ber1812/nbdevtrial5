@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdevtrial5"
+  site-url: "https://Ber1812.github.io/nbdevtrial5"
+  description: "trial"
+  repo-branch: main
+  repo-url: "https://github.com/Ber1812/nbdevtrial5"
