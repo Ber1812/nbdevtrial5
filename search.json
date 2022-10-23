@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "first_module.html",
+    "href": "first_module.html",
+    "title": "First Module",
+    "section": "",
+    "text": "source\n\nsay_hello\n\n say_hello (to)\n\nSay hello to somebody\n\n#assert can_you_count('four') == \"It is four\"\n\n\n# from fastcore.test import *\n# test_eq(can_you_count(\"four\"), \"It is four\")"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdevtrial5",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdevtrial5",
+    "section": "Install",
+    "text": "Install\npip install nbdevtrial5"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdevtrial5",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\nfrom nbdevtrial5 import *"
+  }
+]
